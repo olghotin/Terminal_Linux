@@ -1,5 +1,5 @@
-### Terminal_Linux
-##Homework_1
+##### Terminal_Linux
+###Homework_1
 
 1) Посмотреть где я
 2) Создать папку

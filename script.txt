@@ -1,0 +1,16 @@
+#!/bin/bash
+#Зайти в папку
+cd Linux
+#Создать 3 папки
+mkdir folder_4 folder_5 folder_6
+#Зайти в любоую папку
+cd folder_4
+#Создать 5 файлов (3 txt, 2 json)
+touch file_1.txt file_2.txt file_3.txt file_4.json file_5.json
+#Создать 3 папки
+mkdir test_1 test_2 test_3
+#Вывести список содержимого папки
+ls -la
+#Переместить любые 2 файла, которые вы создали, в любую другую папку
+mv file_1.txt file_2.txt /e/Linux/folder_5/
+
